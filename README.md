@@ -1,6 +1,5 @@
 ﻿# Follow these steps to make a Pull Request
 
-+ ![image](https://drive.google.com/file/d/1JXOrwUYbkpMt5pSELk8E_8rlnyRwpEvX/view?usp=sharing)
 <details open>
 <summary><h3>1. Login to your GitHub Account by heading over to <a href="https://github.com">github.com</a></h3></summary>
 <br>
@@ -15,16 +14,16 @@
 <br>
 <ul>
  <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b></li>
- <img src="" hright="100px">
+ <img src="/top-right.png">
  <li>Enter the <b>Repository Name</b> as <b>Git Cryptex</b>.</li>
  <li>Then click <b>Create Fork</b> leaving all other fields to their default value.</li>
- <img src="https://user-images.githubusercontent.com/79364881/215253757-8b34777b-2241-42c8-bdce-b3e2be4da891.png" height="100px">
+ <img src="https://user-images.githubusercontent.com/79364881/215253757-8b34777b-2241-42c8-bdce-b3e2be4da891.png">
  <li>After a few moments, you can view the repo.</li>
 </ul>
 </details>
 
 <details>
-<summary><h3>Add and Commit your Crossword Answers</h3></summary>
+<summary><h3>3. Add and Commit your Crossword Answers</h3></summary>
 <br>
 <ul>
  <li>Click on <b>Add File</b> and from the dropdown menu choose <b>Create New File</b></li>
@@ -55,8 +54,6 @@
 <summary><h3>Thanks for participating!</h3></summary>
 </details>
 
-
- 
 
  
 
