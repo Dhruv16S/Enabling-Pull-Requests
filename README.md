@@ -1,5 +1,6 @@
 ﻿# Follow these steps to make a Pull Request
- 
+
++ ![image](https://drive.google.com/file/d/1JXOrwUYbkpMt5pSELk8E_8rlnyRwpEvX/view?usp=sharing)
 <details open>
 <summary><h3>1. Login to your GitHub Account by heading over to <a href="https://github.com">github.com</a></h3></summary>
 <br>
@@ -14,10 +15,10 @@
 <br>
 <ul>
  <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b></li>
- <img src="https://drive.google.com/file/d/1JXOrwUYbkpMt5pSELk8E_8rlnyRwpEvX/view">
+ <img src="" hright="100px">
  <li>Enter the <b>Repository Name</b> as <b>Git Cryptex</b>.</li>
  <li>Then click <b>Create Fork</b> leaving all other fields to their default value.</li>
- <img src="https://user-images.githubusercontent.com/79364881/215253757-8b34777b-2241-42c8-bdce-b3e2be4da891.png">
+ <img src="https://user-images.githubusercontent.com/79364881/215253757-8b34777b-2241-42c8-bdce-b3e2be4da891.png" height="100px">
  <li>After a few moments, you can view the repo.</li>
 </ul>
 </details>
@@ -28,7 +29,6 @@
 <ul>
  <li>Click on <b>Add File</b> and from the dropdown menu choose <b>Create New File</b></li>
  <img src="https://user-images.githubusercontent.com/79364881/215253993-4ad118b0-6797-4604-b92e-598339479a00.png">
- <li>Enter the <b>Repository Name</b> as <b>Git Cryptex</b>.</li>
  <li>You will now be redirected to a text editor.</li>
  <li>Enter the file name as your <b>Team Name</b> and type the Crossword answers in the space provided.</li>
  <img src="https://user-images.githubusercontent.com/79364881/215254103-b7e47f60-eae4-439b-bf10-57dea4b3aed9.png"> 
